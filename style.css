@@ -1,0 +1,86 @@
+body{
+    background-color:  #b2fce4 !important;
+}
+.head{
+    height: 100px;
+    margin-top: 20px;
+}
+.heading-col{
+    text-align: center;
+    align-items: center;
+}
+.heading{
+    font-size: 45px;
+    font-weight: bolder;
+    color: #013a50;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.inputs-container{
+    margin-top: 25px;
+}
+.input1-col{
+    text-align: center;
+}
+.input2-col{
+    text-align: center;
+}
+.player1name{
+    margin: 10px 0px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 3px solid #04a6b5;
+    background-color: black;
+    color: #b2fce4;
+}
+.player2name{
+    margin: 10px 0px;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 3px solid #04a6b5;
+    background-color: black;
+    color: #b2fce4;
+}
+.text-bold{
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(197, 76, 32);
+}
+.gif-container{
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px !important;
+    background-color: yellowgreen !important;
+    border: 3px solid black !important;
+}
+.btn:focus{
+    background-color: rgb(109, 185, 255) !important;
+}
+.span{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.start-btn{
+    align-items: center;
+    padding: 10px 25px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.flipthecoin{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.ftc-btn{
+    height: 55px;
+    width: 250px;
+    background-color: yellow;
+    border: 3px solid black;
+    border-radius: 10px;
+}
